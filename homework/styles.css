@@ -1,0 +1,70 @@
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box; /* Hack Box Model */
+}
+
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 5px solid black;
+}
+
+h1, h3, h4{
+    color: black;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+body{
+    background-image: url('black.webp');
+    color: black;
+    font-size: 30px;
+}
+
+#thirdDiv{
+
+    height: 600px;
+    width: 500px;
+    background-color: antiquewhite;
+    padding: 50px;
+    border: 5px solid black;
+    margin: 0 auto;
+    
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+    color: olivedrab;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
